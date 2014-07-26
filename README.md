@@ -1,6 +1,7 @@
 # man-mail-redux
 
-FIXME
+View man pages in your browser with a nice terminal-like interface.
+Sign up for daily manpages sent to your inbox.
 
 ## Prerequisites
 
@@ -16,4 +17,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 MIT
